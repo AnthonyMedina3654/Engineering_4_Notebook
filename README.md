@@ -56,7 +56,8 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
-
+ [test.pi](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
 ### Test Image
-
+![Burger Turtle](images/TurtleBurger.jfif)  
 ### Test GIF
+![Picture Name Here](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/main/images/Dance.gif?raw=true)  
