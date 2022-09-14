@@ -23,13 +23,12 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 No wiring for this assignment.
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+
+[Launchpad Part 1 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/main/raspberry-pi/launchpad1.py).
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
-&nbsp;
 
 ## Onshape_Assignment_Template
 
