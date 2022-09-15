@@ -28,7 +28,7 @@ No wiring for this assignment.
 
 ### Reflection
 
-
+This Function will be very useful for me in the future, the ability to count down is very important. I had the time.sleep in the wrong place and was confused why it wasn't working, until Mr: Miller helped me understand why it needs to be in the loop and not seperate. 
 
 ## Onshape_Assignment_Template
 
