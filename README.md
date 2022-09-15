@@ -34,7 +34,7 @@ This Function will be very useful for me in the future, the ability to count dow
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Each time the serial monitor prints a new number, blink a red LED. Once the countdown reaches Liftoff, turn on a green LED (not the onboard LED) and leave it on.
 
 ### Part Link 
 
