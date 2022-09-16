@@ -16,7 +16,7 @@ In Launch Pad Part 1, you need to make a countdown from 10 seconds down to Lifto
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Countdown](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/abcac30f267bf01eaf861d7e6ab640e1989f2bf6/images/ezgif-4-6daeb68d3f.gif)
 
 ### Wiring
 
