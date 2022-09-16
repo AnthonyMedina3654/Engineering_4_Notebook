@@ -8,6 +8,24 @@
 
 &nbsp;
 
+## Onshape_Assignment_Template
+
+### Assignment Description
+
+Each time the serial monitor prints a new number, blink a red LED. Once the countdown reaches Liftoff, turn on a green LED (not the onboard LED) and leave it on.
+
+### Part Link 
+
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+
+### Part Image
+
+Take a nice screenshot of your Onshape document. 
+
+### Reflection
+
+very easy assignment, was able to find a very helpful site 
+
 ## Launchpad Part 1
 
 ### Assignment Description
