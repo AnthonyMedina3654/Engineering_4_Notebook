@@ -8,19 +8,23 @@
 
 &nbsp;
 
-## Onshape_Assignment_Template
+## Pico Introduction
 
 ### Assignment Description
 
-Each time the serial monitor prints a new number, blink a red LED. Once the countdown reaches Liftoff, turn on a green LED (not the onboard LED) and leave it on.
+Make the onboard LED blink indefinitly.
 
-### Part Link 
+### Evidence 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[Blink LED](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/3462a996b2eeadcb00cb28079f79c7d27fd154db/images/ezgif-4-b8aa48933f.gif).
 
-### Part Image
+### Wiring
 
-Take a nice screenshot of your Onshape document. 
+No wiring needed. 
+
+### Code
+
+[Pico Intro Code]().
 
 ### Reflection
 
@@ -65,6 +69,24 @@ Take a nice screenshot of your Onshape document.
 ### Reflection
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+## Launchpad 2
+
+### Assignment Description
+
+Each time the serial monitor prints a new number, blink a red LED. Once the countdown reaches Liftoff, turn on a green LED (not the onboard LED) and leave it on.
+
+### Part Link 
+
+[Blink Red And Green LED]().
+
+### Part Image
+
+Take a nice screenshot of your Onshape document. 
+
+### Reflection
+
+yes
 
 &nbsp;
 
