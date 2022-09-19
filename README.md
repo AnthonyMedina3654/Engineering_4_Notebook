@@ -16,7 +16,7 @@ Make the onboard LED blink indefinitly.
 
 ### Evidence 
 
-[Blink LED](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/3462a996b2eeadcb00cb28079f79c7d27fd154db/images/ezgif-4-b8aa48933f.gif).
+![Blink LED](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/3462a996b2eeadcb00cb28079f79c7d27fd154db/images/ezgif-4-b8aa48933f.gif).
 
 ### Wiring
 
