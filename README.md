@@ -28,7 +28,7 @@ No wiring needed.
 
 ### Reflection
 
-very easy assignment, was able to find a very helpful site 
+very easy assignment, was able to find a site with exactly what i needed.  
 
 ## Launchpad Part 1
 
