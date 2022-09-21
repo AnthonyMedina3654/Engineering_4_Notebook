@@ -52,6 +52,29 @@ No wiring for this assignment.
 
 This Function will be very useful for me in the future, the ability to count down is very important. I had the time.sleep in the wrong place and was confused why it wasn't working, until Mr: Miller helped me understand why it needs to be in the loop and not seperate. 
 
+## Launchpad Part 2
+
+### Assignment Description
+
+In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Liftoff (at 0 seconds). That countdown must be printed to the serial monitor in VS Code. A green light should blink throughout the countdown, then a red light is turned on until liftoff
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/abcac30f267bf01eaf861d7e6ab640e1989f2bf6/images/ezgif-4-6daeb68d3f.gif)
+
+### Wiring
+
+No wiring for this assignment.
+
+### Code
+
+[Launchpad Part 1 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/main/raspberry-pi/launchpad1.py).
+
+### Reflection
+
+This Function will be very useful for me in the future, the ability to count down is very important. I had the time.sleep in the wrong place and was confused why it wasn't working, until Mr: Miller helped me understand why it needs to be in the loop and not seperate. 
+
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
