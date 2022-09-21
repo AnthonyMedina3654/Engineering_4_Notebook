@@ -60,7 +60,7 @@ In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Lifto
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/abcac30f267bf01eaf861d7e6ab640e1989f2bf6/images/ezgif-4-6daeb68d3f.gif)
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
 
 ### Wiring
 
