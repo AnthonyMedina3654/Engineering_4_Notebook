@@ -64,11 +64,29 @@ In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Lifto
 
 ### Wiring
 
-No wiring for this assignment.
+![Launchpad 2 Wiring Drawing](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/77326cba3618811c08de93ec3fce038bfa62e793/images/image0.jpeg)  
 
 ### Code
 
-[Launchpad Part 1 Code]().
+```python
+
+import time
+import board
+import digitalio
+led = digitalio.DigitalInOut(board.GP21)
+led2 = digitalio.DigitalInOut(board.GP22)
+led.direction = digitalio.Direction.OUTPUT
+led2.direction = digitalio.Direction.OUTPUT
+for x in range(10, 0, -1):
+    print(x) 
+    led.value = True
+    time.sleep(0.5)
+    led.value = False
+    time.sleep(0.5)
+led2.value = True
+time.sleep(10)
+
+```
 
 ### Reflection
 
@@ -93,31 +111,15 @@ Take a nice screenshot of your Onshape document.
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
-## Launchpad 2
+## Launchpad 3
 
 ### Assignment Description
-
-Each time the serial monitor prints a new number, blink a red LED. Once the countdown reaches Liftoff, turn on a green LED (not the onboard LED) and leave it on.
 
 ### Code 
 
 ```python
 
-import time
-import board
-import digitalio
-led = digitalio.DigitalInOut(board.GP21)
-led2 = digitalio.DigitalInOut(board.GP22)
-led.direction = digitalio.Direction.OUTPUT
-led2.direction = digitalio.Direction.OUTPUT
-for x in range(10, 0, -1):
-    print(x) 
-    led.value = True
-    time.sleep(0.5)
-    led.value = False
-    time.sleep(0.5)
-led2.value = True
-time.sleep(10)
+
 
 ```
 
