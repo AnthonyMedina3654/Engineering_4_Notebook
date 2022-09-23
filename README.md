@@ -92,6 +92,28 @@ time.sleep(10)
 
 I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
 
+## Launchpad 3
+
+### Assignment Description
+
+### Code 
+
+```python
+
+
+
+```
+
+### Wiring
+
+### Evidence
+
+Take a nice screenshot of your Onshape document. 
+
+### Reflection
+
+yes
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
@@ -109,27 +131,6 @@ Take a nice screenshot of your Onshape document.
 ### Reflection
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-## Launchpad 3
-
-### Assignment Description
-
-### Code 
-
-```python
-
-
-
-```
-
-
-### Part Image
-
-Take a nice screenshot of your Onshape document. 
-
-### Reflection
-
-yes
 
 &nbsp;
 
