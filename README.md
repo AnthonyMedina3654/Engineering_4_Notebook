@@ -96,6 +96,8 @@ I took this assignment very slow, because I didn't motivate myself to truly thin
 
 ### Assignment Description
 
+Make Launchpad 2 work when a push button is pressed. 
+
 ### Code 
 
 ```python
@@ -106,9 +108,11 @@ I took this assignment very slow, because I didn't motivate myself to truly thin
 
 ### Wiring
 
+![Wiring](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/25d73a883c4e8b7e1fa21f4d1cd16303c1e65339/images/image0%20(1).jpeg)
+
 ### Evidence
 
-Take a nice screenshot of your Onshape document. 
+![LaunchPad 3](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/25d73a883c4e8b7e1fa21f4d1cd16303c1e65339/images/Lunchpad3.gif)  
 
 ### Reflection
 
