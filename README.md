@@ -94,7 +94,7 @@ Make Launchpad 2 work when a push button is pressed.
 
 ### Reflection
 
-yes
+The wiring for the button was much more simple than I thought it would be, with only two wires and my LEDs positioning being a little bit different. I had everything I needed for my code, but I just needed to but them together in the right order and take my red LED out of my "if true" function. I also had a bad button at the beginning of the assignment, so it wouldn't work even when the code was right.
 
 ## Onshape_Assignment_Template
 
