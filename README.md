@@ -24,7 +24,7 @@ No wiring needed.
 
 ### Code
 
-[Pico Intro Code]().
+[Pico Intro Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/a06cbe858f5325202adc689f890c5aeca1bd5031/raspberry-pi/LED_blink.py).
 
 ### Reflection
 
@@ -68,25 +68,7 @@ In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Lifto
 
 ### Code
 
-```python
-
-import time
-import board
-import digitalio
-led = digitalio.DigitalInOut(board.GP21)
-led2 = digitalio.DigitalInOut(board.GP22)
-led.direction = digitalio.Direction.OUTPUT
-led2.direction = digitalio.Direction.OUTPUT
-for x in range(10, 0, -1):
-    print(x) 
-    led.value = True
-    time.sleep(0.5)
-    led.value = False
-    time.sleep(0.5)
-led2.value = True
-time.sleep(10)
-
-```
+[Launchpad Part 2 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/a06cbe858f5325202adc689f890c5aeca1bd5031/raspberry-pi/launchpad2.py).
 
 ### Reflection
 
@@ -100,11 +82,7 @@ Make Launchpad 2 work when a push button is pressed.
 
 ### Code 
 
-```python
-
-
-
-```
+[Launchpad Part 3 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/a06cbe858f5325202adc689f890c5aeca1bd5031/raspberry-pi/launchpad3.py).
 
 ### Wiring
 
