@@ -5,7 +5,11 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
-
+* [Pico Introduction](#Pico_Introduction)
+* [Launchpad Part 1](#Launchpad_Part_1)
+* [Launchpad Part 2](#Launchpad_Part_2)
+* [Launchpad Part 3](#Launchpad_Part_3)
+* [Launchpad Part 4](#Launchpad_Part_4)
 &nbsp;
 
 ## Pico Introduction
@@ -74,7 +78,7 @@ In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Lifto
 
 I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
 
-## Launchpad 3
+## Launchpad Part 3
 
 ### Assignment Description
 
@@ -96,7 +100,7 @@ Make Launchpad 2 work when a push button is pressed.
 
 The wiring for the button was much more simple than I thought it would be, with only two wires and my LEDs positioning being a little bit different. I had everything I needed for my code, but I just needed to but them together in the right order and take my red LED out of my "if true" function. I also had a bad button at the beginning of the assignment, so it wouldn't work even when the code was right.
 
-## Launchpad 4
+## Launchpad Part 4
 
 ### Assignment Description
 
