@@ -8,34 +8,121 @@
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Pico Introduction
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Make the onboard LED blink indefinitly.
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Blink LED](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/3462a996b2eeadcb00cb28079f79c7d27fd154db/images/ezgif-4-b8aa48933f.gif).
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+No wiring needed. 
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+
+[Pico Intro Code]().
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+very easy assignment, was able to find a site with exactly what i needed.  
 
-&nbsp;
+## Launchpad Part 1
+
+### Assignment Description
+
+In Launch Pad Part 1, you need to make a countdown from 10 seconds down to Liftoff (at 0 seconds). That countdown must be printed to the serial monitor in VS Code.
+
+### Evidence 
+
+![Countdown](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/abcac30f267bf01eaf861d7e6ab640e1989f2bf6/images/ezgif-4-6daeb68d3f.gif)
+
+### Wiring
+
+No wiring for this assignment.
+
+### Code
+
+[Launchpad Part 1 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/main/raspberry-pi/launchpad1.py).
+
+### Reflection
+
+This Function will be very useful for me in the future, the ability to count down is very important. I had the time.sleep in the wrong place and was confused why it wasn't working, until Mr: Miller helped me understand why it needs to be in the loop and not seperate. 
+
+## Launchpad Part 2
+
+### Assignment Description
+
+In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Liftoff (at 0 seconds). That countdown must be printed to the serial monitor in VS Code. A green light should blink throughout the countdown, then a red light is turned on until liftoff
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+
+### Wiring
+
+![Launchpad 2 Wiring Drawing](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/77326cba3618811c08de93ec3fce038bfa62e793/images/image0.jpeg)  
+
+### Code
+
+```python
+
+import time
+import board
+import digitalio
+led = digitalio.DigitalInOut(board.GP21)
+led2 = digitalio.DigitalInOut(board.GP22)
+led.direction = digitalio.Direction.OUTPUT
+led2.direction = digitalio.Direction.OUTPUT
+for x in range(10, 0, -1):
+    print(x) 
+    led.value = True
+    time.sleep(0.5)
+    led.value = False
+    time.sleep(0.5)
+led2.value = True
+time.sleep(10)
+
+```
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
+## Launchpad 3
+
+### Assignment Description
+
+Make Launchpad 2 work when a push button is pressed. 
+
+### Code 
+
+```python
+
+
+
+```
+
+### Wiring
+
+![Wiring](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/25d73a883c4e8b7e1fa21f4d1cd16303c1e65339/images/image0%20(1).jpeg)
+
+### Evidence
+
+![LaunchPad 3](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/25d73a883c4e8b7e1fa21f4d1cd16303c1e65339/images/Lunchpad3.gif)  
+
+### Reflection
+
+yes
 
 ## Onshape_Assignment_Template
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Each time the serial monitor prints a new number, blink a red LED. Once the countdown reaches Liftoff, turn on a green LED (not the onboard LED) and leave it on.
 
 ### Part Link 
 
