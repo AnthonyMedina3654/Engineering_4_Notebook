@@ -5,7 +5,11 @@
 ## Table of Contents
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
-
+* [Pico Introduction](#Pico_Introduction)
+* [Launchpad Part 1](#Launchpad_Part_1)
+* [Launchpad Part 2](#Launchpad_Part_2)
+* [Launchpad Part 3](#Launchpad_Part_3)
+* [Launchpad Part 4](#Launchpad_Part_4)
 &nbsp;
 
 ## Pico Introduction
@@ -24,7 +28,7 @@ No wiring needed.
 
 ### Code
 
-[Pico Intro Code]().
+[Pico Intro Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/a06cbe858f5325202adc689f890c5aeca1bd5031/raspberry-pi/LED_blink.py).
 
 ### Reflection
 
@@ -68,31 +72,13 @@ In Launch Pad Part 2, you need to make a countdown from 10 seconds down to Lifto
 
 ### Code
 
-```python
-
-import time
-import board
-import digitalio
-led = digitalio.DigitalInOut(board.GP21)
-led2 = digitalio.DigitalInOut(board.GP22)
-led.direction = digitalio.Direction.OUTPUT
-led2.direction = digitalio.Direction.OUTPUT
-for x in range(10, 0, -1):
-    print(x) 
-    led.value = True
-    time.sleep(0.5)
-    led.value = False
-    time.sleep(0.5)
-led2.value = True
-time.sleep(10)
-
-```
+[Launchpad Part 2 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/a06cbe858f5325202adc689f890c5aeca1bd5031/raspberry-pi/launchpad2.py).
 
 ### Reflection
 
 I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
 
-## Launchpad 3
+## Launchpad Part 3
 
 ### Assignment Description
 
@@ -100,11 +86,7 @@ Make Launchpad 2 work when a push button is pressed.
 
 ### Code 
 
-```python
-
-
-
-```
+[Launchpad Part 3 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/a06cbe858f5325202adc689f890c5aeca1bd5031/raspberry-pi/launchpad3.py).
 
 ### Wiring
 
@@ -116,7 +98,30 @@ Make Launchpad 2 work when a push button is pressed.
 
 ### Reflection
 
-yes
+The wiring for the button was much more simple than I thought it would be, with only two wires and my LEDs positioning being a little bit different. I had everything I needed for my code, but I just needed to but them together in the right order and take my red LED out of my "if true" function. I also had a bad button at the beginning of the assignment, so it wouldn't work even when the code was right.
+
+## Launchpad Part 4
+
+### Assignment Description
+
+Yes
+
+### Wiring
+
+[Wiring](). 
+
+### Evidence
+
+[Launchpad 4](). 
+
+### Code
+
+[Launchpad 4 Code](). 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
 
 ## Onshape_Assignment_Template
 
