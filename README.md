@@ -108,11 +108,11 @@ We had to wire and code a accelerometer, and have it return x, y, and z axes on 
 
 ### Wiring
 
-[Wiring](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/8abd39259cf7b85572dd580be2fdaa84f732f70d/images/image0%20(2).jpeg). 
+![Wiring](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/8abd39259cf7b85572dd580be2fdaa84f732f70d/images/image0%20(2).jpeg). 
 
 ### Evidence
 
-[Crash Avoidence 1](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/392635e3cf613f8fd375e0e01cdf3363ec021379/images/Crash%20Avoidence%201.gif). 
+![Crash Avoidence 1](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/392635e3cf613f8fd375e0e01cdf3363ec021379/images/Crash%20Avoidence%201.gif). 
 
 ### Code
 
