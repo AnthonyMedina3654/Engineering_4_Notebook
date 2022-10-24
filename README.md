@@ -122,6 +122,27 @@ We had to wire and code a accelerometer, and have it return x, y, and z axes on 
 
 This assignment went much faster than the ones in the past, because I changed my mindset and have been able to take healthy breaks. The biggest help for this assignment was the bit of code I found that I was able to modify to fit the this assignment. 
 
+## Crash Avoidence 2
+
+### Assignment Description
+
+We had to wire and code a accelerometer, and have it return x, y, and z axes on the serial monitor. We then make an LED turn on when it reches 90 degrees, and off when its no longer 90.
+
+### Wiring
+
+![Wiring](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/8abd39259cf7b85572dd580be2fdaa84f732f70d/images/image0%20(2).jpeg). 
+
+### Evidence
+
+![Crash Avoidence 2](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/9b5c7775aac40f9d3aaf9460bd1638e22e5eec97/images/ezgif-2-6e5c730d73.gif). 
+
+### Code
+
+[Crash Avoidence 2 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/5a35ad9bb4ac099139cdebdd17e742fa8783c2ed/raspberry-pi/crashavoidance2.py). 
+
+### Reflection
+
+I had almost all the knowledge I needed to do this assignment, except for one key piece. I did not know how to issolate just the "Z" in mpu.acceleration. I asked Mr. Miller and he explained that it was like numbers, and Z was number 2. So I was able to Issolate and put an if statement on it, saying if Z is below 0, then turn on the LED. If Z is above 0, then keep LED off. 
 
 ## Onshape_Assignment_Template
 
