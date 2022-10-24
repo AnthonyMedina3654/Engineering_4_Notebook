@@ -100,27 +100,27 @@ Make Launchpad 2 work when a push button is pressed.
 
 The wiring for the button was much more simple than I thought it would be, with only two wires and my LEDs positioning being a little bit different. I had everything I needed for my code, but I just needed to but them together in the right order and take my red LED out of my "if true" function. I also had a bad button at the beginning of the assignment, so it wouldn't work even when the code was right.
 
-## Launchpad Part 4
+## Crash Avoidence 1
 
 ### Assignment Description
 
-Yes
+We had to wire and code a accelerometer, and have it return x, y, and z axes on the serial monitor. 
 
 ### Wiring
 
-[Wiring](). 
+![Wiring](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/8abd39259cf7b85572dd580be2fdaa84f732f70d/images/image0%20(2).jpeg). 
 
 ### Evidence
 
-[Launchpad 4](). 
+![Crash Avoidence 1](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/392635e3cf613f8fd375e0e01cdf3363ec021379/images/Crash%20Avoidence%201.gif). 
 
 ### Code
 
-[Launchpad 4 Code](). 
+[Crash Avoidence 1 Code](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/392635e3cf613f8fd375e0e01cdf3363ec021379/raspberry-pi/crashavoidance1.py). 
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment went much faster than the ones in the past, because I changed my mindset and have been able to take healthy breaks. The biggest help for this assignment was the bit of code I found that I was able to modify to fit the this assignment. 
 
 
 ## Onshape_Assignment_Template
