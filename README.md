@@ -144,6 +144,116 @@ We had to wire and code a accelerometer, and have it return x, y, and z axes on 
 
 I had almost all the knowledge I needed to do this assignment, except for one key piece. I did not know how to issolate just the "Z" in mpu.acceleration. I asked Mr. Miller and he explained that it was like numbers, and Z was number 2. So I was able to Issolate and put an if statement on it, saying if Z is below 0, then turn on the LED. If Z is above 0, then keep LED off. 
 
+## Crash Avoidence 3
+
+### Assignment Description
+
+We had to wire and code a accelerometer, and have it return x, y, and z axes on the serial monitor. We then make an LED turn on when it reches 90 degrees, and off when its no longer 90. Now you will add an onboard OLED screen to print live angular velocity values.
+ 
+### Evidence 
+
+![Crash Avoidence]()
+
+### Wiring
+
+wooo
+
+### Code
+
+[Crash Avoidence 3]().
+
+### Reflection
+
+wooooooooooooo
+
+## Landing Area 1
+
+### Assignment Description
+
+Write a script that takes three coordinates and returns the area using a function
+
+### Evidence 
+
+![Landing Area 1]()
+
+### Wiring
+
+wooooooo
+
+### Code
+
+[Landing Area 1Code]().
+
+### Reflection
+
+woooooooooooooooooooooo
+
+## Landing Area 2
+
+### Assignment Description
+
+You have successfully written a script to calculate and return the area of each triangle. Now, your commander has asked that you include a small OLED screen to improve visualization of where the landing area is relative to the base.
+
+### Evidence 
+
+![Landing Area 2]()
+
+### Wiring
+
+woooooooooooooooooooooooo
+
+### Code
+
+[Landing Area 2 Code]().
+
+### Reflection
+
+woooooooooooooooooooooooooooo
+
+## Morse Code 1
+
+### Assignment Description
+
+Write a morse code translator. This piece of code will translate text from the user into a set of dots and dashes. Print those dots and dashes to the serial monitor.
+
+### Evidence 
+
+![Morse Code 1]()
+
+### Wiring
+
+woooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+### Code
+
+[Morse Code 1 Code]().
+
+### Reflection
+
+wooooooooooooooooooooooooooooooooooooo
+
+## Morse Code 2
+
+### Assignment Description
+
+Now that you have a script that translates English into Morse Code, let’s add to it! You need to have your Pico flash out your Morse Code message using an LED.
+
+### Evidence 
+
+![Morse Code 2]()
+
+### Wiring
+
+woooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+### Code
+
+[Morse Code 2 Code]().
+
+### Reflection
+
+wooooooooooooooooooooooooooooooooooooooooooooooooooooo lets gooooooooooooooooooooooooooooo
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
