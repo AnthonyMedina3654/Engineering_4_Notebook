@@ -152,15 +152,15 @@ We had to wire and code a accelerometer, and have it return x, y, and z axes on 
  
 ### Evidence 
 
-![Crash Avoidence]()
+![Crash Avoidence](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/313030343be63a21fc5e1c4afd14c3878c4f1db5/images/197930777-1497afab-6583-4bb5-b642-9440d67a251c.gif)
 
 ### Wiring
 
-wooo
+![Crash Avoidence 2](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/d3b36089335dc7114dcd764a1e850e65f6310a3f/images/Crash3.png).
 
 ### Code
 
-[Crash Avoidence 3]().
+[Crash Avoidence 3](https://github.com/Graham913/Engineering_4_Notebook/blob/7208b914c25832910204bc5fe51eefe4c7533c29/crash2.py).
 
 ### Reflection
 
