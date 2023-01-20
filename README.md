@@ -174,15 +174,15 @@ Write a script that takes three coordinates and returns the area using a functio
 
 ### Evidence 
 
-![Landing Area 1]()
+![Landing Area 1](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/ed6efaa2795a91eda77a2d0836d38a7ba1c5db31/images/197931058-1bb237e0-489f-4738-b142-33b491400871.gif)
 
 ### Wiring
 
-wooooooo
+none
 
 ### Code
 
-[Landing Area 1Code]().
+[Landing Area 1Code](https://github.com/Graham913/Engineering_4_Notebook/blob/7208b914c25832910204bc5fe51eefe4c7533c29/landingarea.py).
 
 ### Reflection
 
