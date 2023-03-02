@@ -254,6 +254,92 @@ woooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 wooooooooooooooooooooooooooooooooooooooooooooooooooooo lets gooooooooooooooooooooooooooooo
 
+## FEA Beam Design
+
+### Assignment Description
+
+design a 3D printed beam in Onshape with the goal of maximizing the weight the beam can hold before failure. The beam fails if either of the following two conditions are met:
+The beam breaks
+The beam bends more than 35 mm
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif) 
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
+## FEA Beam Design 2
+
+### Assignment Description
+
+Run one static finite element analysis on your beam to determine what areas need to be improved.
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
+## FEA Beam Design 3
+
+### Assignment Description
+
+Improve your beam! Ideally, your final beam should have a predicted maximum stress and deflection less than half of what your initial beam design had. You probably can improve your beam much more than that. 
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
+## Ring and Spinner
+
+### Assignment Description
+
+In this unit, we are going to design a fun little helicopter toy, called a "Pull Copter," composed of five parts. First is the Ring and Spinner
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
+## Key and Prop
+
+### Assignment Description
+
+In this unit, we are going to design a fun little helicopter toy, called a "Pull Copter," composed of five parts. This is the Key and Prop.
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
+## Assembling the Launcher
+
+### Assignment Description
+
+In this unit, we are going to design a fun little helicopter toy, called a "Pull Copter," composed of five parts. This is the Assembly of the Launcher.
+
+### Evidence 
+
+![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+
+### Reflection
+
+I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
