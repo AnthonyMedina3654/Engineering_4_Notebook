@@ -268,7 +268,7 @@ The beam bends more than 35 mm
 
 ### Reflection
 
-I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+Beam was simple to design, I made sure there was no overhangs and provided support in the most critical places for it to fail. 
 
 ## FEA Beam Design 2
 
@@ -283,7 +283,7 @@ Run one static finite element analysis on your beam to determine what areas need
 
 ### Reflection
 
-I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+we thankfully had no red on our beam, only orange in the place we expected it to be. slight tweaks should solve the problem. 
 
 ## FEA Beam Design 3
 
@@ -297,7 +297,7 @@ Improve your beam! Ideally, your final beam should have a predicted maximum stre
 
 ### Reflection
 
-I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+we provided a bit more support for the middle, leading to no red or orange in our beam at all. 
 
 ## Ring and Spinner
 
@@ -311,7 +311,7 @@ In this unit, we are going to design a fun little helicopter toy, called a "Pull
 
 ### Reflection
 
-I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+I did the Ring, and it was pretty easy. no mistakes were made and a simple piece to design. 
 
 ## Key and Prop
 
@@ -325,7 +325,7 @@ In this unit, we are going to design a fun little helicopter toy, called a "Pull
 
 ### Reflection
 
-I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+I did the Key, which was only slightly harder then the Ring. Me and Moe were matching pace, me only being slightly faster. 
 
 ## Assembling the Launcher
 
@@ -339,7 +339,7 @@ In this unit, we are going to design a fun little helicopter toy, called a "Pull
 
 ### Reflection
 
-I took this assignment very slow, because I didn't motivate myself to truly think about what I was doing, and just zoned out until I was offered help. That won't be happening anymore. The big thing I had a problem with was the second LED, because I didn't realize it was as simple as putting a 2 at the end of it.
+Assembly was simple with me and Moe working together, done in a single class then took the quizzes and passed. 
 
 ## Onshape_Assignment_Template
 
