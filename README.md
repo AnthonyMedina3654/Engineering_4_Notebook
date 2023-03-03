@@ -264,7 +264,7 @@ The beam bends more than 35 mm
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif) 
+![FEA Beam 1](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/2fd1f8cf21b94df97966f727e93d891387809d43/images/Capture.PNG)
 
 ### Reflection
 
@@ -278,7 +278,8 @@ Run one static finite element analysis on your beam to determine what areas need
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+![FEA Beam 2](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/2fd1f8cf21b94df97966f727e93d891387809d43/images/Web%20capture_10-11-2022_95851_www.simscale.com.jpeg)
+
 
 ### Reflection
 
@@ -292,7 +293,7 @@ Improve your beam! Ideally, your final beam should have a predicted maximum stre
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+![FEA Beam 3](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/2fd1f8cf21b94df97966f727e93d891387809d43/images/Capture.2.PNG)
 
 ### Reflection
 
@@ -306,7 +307,7 @@ In this unit, we are going to design a fun little helicopter toy, called a "Pull
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+![Ring and Spinner](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/2fd1f8cf21b94df97966f727e93d891387809d43/images/Capture.ring.PNG)
 
 ### Reflection
 
@@ -320,7 +321,7 @@ In this unit, we are going to design a fun little helicopter toy, called a "Pull
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+![Key and Prop](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/2fd1f8cf21b94df97966f727e93d891387809d43/images/Capture.key.PNG)
 
 ### Reflection
 
@@ -334,7 +335,7 @@ In this unit, we are going to design a fun little helicopter toy, called a "Pull
 
 ### Evidence 
 
-![Countdown+LED Blink](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/4217ac6e8c316182bb8462d92f958a942b95f084/images/ezgif-2-4109dd0a23.gif)
+![Assembly](https://github.com/AnthonyMedina3654/Engineering_4_Notebook/blob/2fd1f8cf21b94df97966f727e93d891387809d43/images/Capture.assemble.PNG)
 
 ### Reflection
 
