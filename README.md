@@ -6,7 +6,7 @@
 * [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 * [Pico Introduction](#Pico_Introduction)
-* [Launchpad Part 1](#LaunchpadPart1)
+* [Launchpad Part 1](##LaunchpadPart1)
 * [Launchpad Part 2](#LaunchpadPart2)
 * [Launchpad Part 3](#LaunchpadPart3)
 * [Launchpad Part 4](#LaunchpadPart4)
